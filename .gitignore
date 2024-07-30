@@ -3,3 +3,7 @@
 /Temp
 /obj
 /Logs
+*.csproj
+/.idea
+*.sln
+/UserSettings
