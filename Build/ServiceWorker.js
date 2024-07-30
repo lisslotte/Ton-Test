@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Ton Test-1.0";
+const cacheName = "DefaultCompany-tonexample-1.0";
 const contentToCache = [
     "Build/Build.loader.js",
     "Build/Build.framework.js",

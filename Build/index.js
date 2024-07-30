@@ -43,7 +43,7 @@ window.addEventListener("load", function () {
     codeUrl: buildUrl + "/Build.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
-    productName: "Ton Test",
+    productName: "tonexample",
     productVersion: "1.0",
     showBanner: unityShowBanner,
   };
